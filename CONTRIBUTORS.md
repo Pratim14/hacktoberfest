@@ -1,7 +1,10 @@
 #### Name: [Pratim] (https://github.com/Pratim14)
-  -Place: Siliguri,india
-  -Bio: Student (ECE 3rd sem)
-  -github- Pratim14(https://github.com/Pratim14)
+
+    -Place: Silliguri,india.
+  
+    -Bio: Student (ECE 3rd sem).
+  
+     -github- Pratim14(https://github.com/Pratim14)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
